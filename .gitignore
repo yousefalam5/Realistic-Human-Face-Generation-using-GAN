@@ -1,0 +1,26 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+.venv*/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Streamlit local settings & secrets
+.streamlit/secrets.toml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
